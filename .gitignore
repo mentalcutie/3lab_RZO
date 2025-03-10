@@ -1,0 +1,12 @@
+# Visual Studio temporary files
+.vs/
+bin/
+obj/
+*.opendb
+*.suo
+*.user
+
+# Build outputs
+x64/
+Debug/
+Release/
